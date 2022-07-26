@@ -1,3 +1,5 @@
+'''Esta función nos calcula el aguinaldo dependiendo de los dias que trabajaste y durante cuantos meses fue debido a que se puede trabajar durante el año o haber empezado meses antes'''
+
 def aguinaldo(sal,respuesta):
 	dias=float(input("Cuantos dias le pagara "))
 	meses=int(input("Cuantos meses trabajo "))
